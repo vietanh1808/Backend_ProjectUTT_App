@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend_Project_UTT_App",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietanh1808/Backend_ProjectUTT_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietanh1808/Backend_ProjectUTT_App/issues"
+  },
+  "homepage": "https://github.com/vietanh1808/Backend_ProjectUTT_App#readme"
+}
